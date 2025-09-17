@@ -315,30 +315,15 @@ python -m presidio_analyzer --dev-mode
 - [ ] **Enterprise SSO** integration (SAML, OAuth2, LDAP)
 - [ ] **24/7 Support** and professional services
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Microsoft Presidio** - Foundation for PII detection capabilities
-- **Healthcare Partners** - Real-world testing and feedback across 8+ institutions
-- **Privacy Research Community** - Federated learning and differential privacy innovations
-- **Open Source Contributors** - Core libraries including spaCy, PyTorch, and Transformers
-- **Security Experts** - Penetration testing and security auditing
-
 ## 📞 Contact & Support
 
 **Team Vortex Squad**
 - **Lead Developer**: Amrutha Muralidhar
 - **GitHub**: [@Amrutha-Muralidhar](https://github.com/Amrutha-Muralidhar)
-- **Project**: Healthcare Privacy Innovation Initiative
 
 ### Support Channels
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/Amrutha-Muralidhar/dora/issues)
 - **💡 Feature Requests**: [GitHub Discussions](https://github.com/Amrutha-Muralidhar/dora/discussions)
-- **📚 Documentation**: [Wiki](https://github.com/Amrutha-Muralidhar/dora/wiki)
-- **💬 Community**: [Slack Channel](https://dora-community.slack.com)
 
 ---
 
