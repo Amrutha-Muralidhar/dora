@@ -1,0 +1,19 @@
+# Changelog
+
+## [Unreleased]
+
+### Added
+
+## [1.0.1]
+
+### Added
+- Overlay graphs to display both base detection and tracked detections.
+
+### Changed
+- Replace absl::make_unique with std::make_unique (introduced in C++14).
+
+## [1.0.0]
+
+### Added
+
+- Initial open source release
